@@ -14,3 +14,7 @@ div {
 	height: 300px;
 	margin: 50px auto;
 }
+
+img {
+	border-radius: 25px;
+}
